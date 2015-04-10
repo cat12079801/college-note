@@ -1,20 +1,15 @@
-Heading
-=======
+# College Note
 
-sub heading
------------
+## sub heading
 
-Section 1
----------
+## Section 1
 あいうえ
 
 
-Section 2
----------
+## Section 2
 おあｋｊｌ
 
 
-Section 3
----------
+## Section 3
 hogehoge
 
