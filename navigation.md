@@ -1,4 +1,4 @@
-# Your wiki name
+# College Note
 
 [Home](index.md)
 [About](about.md)
